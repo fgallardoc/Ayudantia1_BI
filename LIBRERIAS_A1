@@ -1,0 +1,33 @@
+#install.packages("nombre de la libreria")
+
+
+install.packages("mice")
+install.packages("clusterSim")
+install.packages("corrplot")
+install.packages("MASS")
+install.packages("caret")
+install.packages("pROC")
+install.packages("devtools")
+install.packages("lattice")
+install.packages("scales")
+install.packages("lazyeval")
+install.packages("stringi")
+install.packages("rpart.plot")
+
+#library(nombre de la libreria) //Activaci?n de las librerias
+
+
+library(lattice)
+library(mice)
+library(corrplot)
+library(MASS)
+library(clusterSim)
+library(caret)
+library(stats)
+library(pROC)
+library(devtools)
+library(scales)
+library(lazyeval)
+library(stringi)
+library(rpart)
+library(rpart.plot)
